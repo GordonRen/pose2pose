@@ -1,6 +1,7 @@
 """
 Example script using PyOpenPose.
 """
+import argparse
 import PyOpenPose as OP
 import time
 import cv2
